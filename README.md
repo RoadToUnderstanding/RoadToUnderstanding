@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoadToUnderstanding
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
-- 💞️ I’m trying to see what is possible whith this language
+- 💞️ I’m trying to see what is possible with this language
 - 📫 How to reach me ...
 
 <!---
